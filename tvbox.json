@@ -1,5 +1,8 @@
 {
+  "spider": "",
   "sites": [],
+  "lives": [],
   "parses": [],
-  "lives": []
+  "rules": [],
+  "flags": []
 }
